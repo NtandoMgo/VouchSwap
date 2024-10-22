@@ -30,7 +30,3 @@
 5. **Deploy and Enjoy**: Host your platform on your preferred hosting service!
 
 Feel free to contribute, raise issues, or suggest new features!
-
----
-
-This description covers the essential features, tech stack, and setup instructions, giving readers a clear overview of what the platform does and how to get started.
